@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".OwnerProfile"></activity>
+        <activity android:name=".OwnerProfile" />
+        <activity android:name=".CustomerDataLayout"></activity>
     </application>
 
 </manifest>
